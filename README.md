@@ -54,6 +54,8 @@ Outside of work, I also write and maintain some Julia packages, work out, swim, 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dscolby&show_icons=true&theme=radical)
+
 <!--
 **dscolby/dscolby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
